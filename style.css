@@ -44,6 +44,10 @@ ul{
     border: 1px solid rgb(149, 149, 149);
     border-radius: 20px;
 }
+.gallery-item:hover{
+    border: 1px solid rgb(31, 31, 31);
+    
+}
 
 .footer{
     background-color: floralwhite;
