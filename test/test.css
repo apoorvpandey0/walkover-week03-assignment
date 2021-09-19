@@ -30,7 +30,7 @@
     display: grid;
     margin: 1em;
     grid-gap: 1em;
-    height: 100%;
+    height: 95%;
     grid-template-columns: auto auto;
 }
 .box3{
@@ -72,7 +72,7 @@
             display: grid;
             margin: 1em;
             grid-gap: 1em;
-            height: 100%;
+            height: 95%;
             grid-template-columns: auto auto;
         }
         .box3{
